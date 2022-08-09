@@ -35,3 +35,4 @@ function newChild() {
     }
   }, 500);
 }
+console.log("test-web2-002");
