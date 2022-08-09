@@ -6,3 +6,4 @@ childp.send({ type: "msg", content: "hello" });
 childp.on("message", (data) => {
   console.log("master:", data);
 });
+console.log("test-web-002");
